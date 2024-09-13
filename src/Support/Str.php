@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\DhlParcel\Support;
+namespace ChrisSantiago82\DhlParcel\Support;
 
 class Str
 {

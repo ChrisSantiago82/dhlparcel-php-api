@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\DhlParcel\Tests\Unit\Resources;
+namespace ChrisSantiago82\DhlParcel\Tests\Unit\Resources;
 
 use Mvdnbrk\DhlParcel\Exceptions\JsonEncodingException;
 use Mvdnbrk\DhlParcel\Resources\BaseResource;

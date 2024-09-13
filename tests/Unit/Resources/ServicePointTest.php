@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\DhlParcel\Tests\Unit\Resources;
+namespace ChrisSantiago82\DhlParcel\Tests\Unit\Resources;
 
 use Mvdnbrk\DhlParcel\Resources\ServicePoint;
 use Mvdnbrk\DhlParcel\Tests\TestCase;

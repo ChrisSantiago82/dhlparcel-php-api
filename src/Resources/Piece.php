@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\DhlParcel\Resources;
+namespace ChrisSantiago82\DhlParcel\Resources;
 
 class Piece extends BaseResource
 {

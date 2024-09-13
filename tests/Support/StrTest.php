@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\DhlParcel\Tests\Support;
+namespace ChrisSantiago82\DhlParcel\Tests\Support;
 
 use Mvdnbrk\DhlParcel\Support\Str;
 use Mvdnbrk\DhlParcel\Tests\TestCase;

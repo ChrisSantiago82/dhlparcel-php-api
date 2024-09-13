@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\DhlParcel;
+namespace ChrisSantiago82\DhlParcel;
 
 use Composer\CaBundle\CaBundle;
 use GuzzleHttp\Client as HttpClient;

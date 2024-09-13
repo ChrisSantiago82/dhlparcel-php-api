@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\DhlParcel\Endpoints;
+namespace ChrisSantiago82\DhlParcel\Endpoints;
 
 use Mvdnbrk\DhlParcel\Resources\AccessToken;
 

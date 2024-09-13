@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\DhlParcel\Tests\Feature\Endpoints;
+namespace ChrisSantiago82\DhlParcel\Tests\Feature\Endpoints;
 
 use Lcobucci\JWT\Configuration;
 use Mvdnbrk\DhlParcel\Tests\TestCase;

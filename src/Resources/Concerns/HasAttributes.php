@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\DhlParcel\Resources\Concerns;
+namespace ChrisSantiago82\DhlParcel\Resources\Concerns;
 
 use Mvdnbrk\DhlParcel\Support\Str;
 

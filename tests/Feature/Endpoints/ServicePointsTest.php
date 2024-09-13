@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\DhlParcel\Tests\Feature\Endpoints;
+namespace ChrisSantiago82\DhlParcel\Tests\Feature\Endpoints;
 
 use Mvdnbrk\DhlParcel\Endpoints\ServicePoints;
 use Mvdnbrk\DhlParcel\Resources\ServicePoint as ServicePointResource;

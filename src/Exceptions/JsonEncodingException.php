@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\DhlParcel\Exceptions;
+namespace ChrisSantiago82\DhlParcel\Exceptions;
 
 use RuntimeException;
 

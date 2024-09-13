@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\DhlParcel\Tests;
+namespace ChrisSantiago82\DhlParcel\Tests;
 
 use Mvdnbrk\DhlParcel\Client;
 use Mvdnbrk\DhlParcel\Endpoints\Authentication;

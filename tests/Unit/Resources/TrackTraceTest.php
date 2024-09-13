@@ -1,6 +1,6 @@
 <?php
 
-namespace Mvdnbrk\DhlParcel\Tests\Unit\Resources;
+namespace ChrisSantiago82\DhlParcel\Tests\Unit\Resources;
 
 use Mvdnbrk\DhlParcel\Resources\TrackTrace;
 use Mvdnbrk\DhlParcel\Tests\TestCase;
